@@ -1,0 +1,9 @@
+name: DailyRewards
+version: ${version}
+description: Reward your players after a configured cooldown runs out
+
+author: ReallySavvy
+website: https://reallysavvy.me
+
+main: me.reallysavvy.dailyrewards.DailyRewards
+prefix: me.reallysavvy.dailyrewards

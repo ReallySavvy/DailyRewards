@@ -1,0 +1,32 @@
+# Eclipse
+/.classpath
+/.project
+/.settings
+
+# NetBeans
+/nbproject
+
+# Gradle
+.gradle
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# vim <3
+.*.sw[a-p]
+
+# Other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+# Mac filesystem dust
+.DS_Store
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
